@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Streaming Analysis</strong></h1>
+<h1 align="center"><strong>Streaming Viewing Analysis</strong></h1>
 
 # Introduction
 In this notebook, I'll take a look at my streaming viewing history data from Hulu, Netflix, and Prime Video accounts. I will merge these datasets with an additional dataset that contains more information about the streaming titles like run time, genres, and Imdb score. This will enable me to gain more insight into my streaming history.
