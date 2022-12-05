@@ -13,6 +13,7 @@ In this notebook, I'll take a look at my streaming viewing history data from Hul
 
 
 
+
 ### Changes to the Project Plan
 I turned in my Project Plan when I only had my Netflix data. Since then, I've able to obtain my Hulu and Prime Video data.
 
